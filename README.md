@@ -29,10 +29,12 @@ added an id for search engine optimization so the link properly directs
 changed div tags to section tags for the search engine optimization, online reputation, and social media marketing sections. because they have headers and p tags so it is more clear than div.
 </li>
 <li>
-changed lead generation, brang awareness and cost management section tag to <aside> because its content aside from the page content
+changed lead generation, brand awareness and cost management section tag to "aside" because its content to the side of the main page content
 </li>
+<li>
+Changed classes benefit-lead,brand, and cost to class=benefits in the html. Then I consolidated the CSS of those classes into 3 rules rather than 8 rules, .benefits, .benefits h3, .benefits img
 </ol>
 
 
-## contribution
+## Contribution
 Re organized with love by Theo Phillips
