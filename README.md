@@ -9,6 +9,9 @@ HTML, CSS
 ## Website
 https://cannibalclarence.github.io/Challenge-1/
 
+## Screenshot
+![Web capture_30-3-2022_184911_cannibalclarence github io](https://user-images.githubusercontent.com/100390351/160975310-38424c28-a253-4b6d-baec-7b4841a2a446.jpeg)
+
 ## Notes/What I changed
 <ol>
 <li>
